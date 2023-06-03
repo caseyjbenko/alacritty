@@ -1,0 +1,32 @@
+window:
+  dynamic_padding: true
+  padding: 
+    x: 2
+    y: 2
+  decorations: none
+  opacity: 0.95
+# Font configuration (changes require restart)
+font:
+  # Normal (roman) font face
+  normal:
+    # family: Droid Sans Mono Nerd Font
+    family: Fira Code Nerd Font
+    style: Retina
+
+  # Bold font face
+  bold:
+    # family: Droid Sans Mono Nerd Font
+    family: Fira Code Nerd Font
+    style: Bold
+
+  # Italic font face
+  italic:
+    # family: Droid Sans Mono Nerd Font
+    family: Fira Code Nerd Font
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    # family: Droid Sans Mono Nerd Font
+    family: Fira Code Nerd Font
+    style: Bold Italic
