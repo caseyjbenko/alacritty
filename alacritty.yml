@@ -10,23 +10,21 @@ font:
   # Normal (roman) font face
   normal:
     # family: Droid Sans Mono Nerd Font
-    family: Fira Code Nerd Font
-    style: Retina
-
+    family: Fira Mono Nerd Font 
   # Bold font face
   bold:
     # family: Droid Sans Mono Nerd Font
-    family: Fira Code Nerd Font
+    family: Fira Mono Nerd Font
     style: Bold
 
   # Italic font face
   italic:
     # family: Droid Sans Mono Nerd Font
-    family: Fira Code Nerd Font
+    family: Fira Mono Nerd Font
     style: Italic
 
   # Bold italic font face
   bold_italic:
     # family: Droid Sans Mono Nerd Font
-    family: Fira Code Nerd Font
+    family: Fira Mono Nerd Font
     style: Bold Italic
