@@ -1,17 +1,17 @@
 [font.bold]
-family = "Fira Mono Nerd Font"
+family = "FiraMono Nerd Font Mono"
 style = "Bold"
 
 [font.bold_italic]
-family = "Fira Mono Nerd Font"
+family = "FiraMono Nerd Font Mono"
 style = "Bold Italic"
 
 [font.italic]
-family = "Fira Mono Nerd Font"
+family = "FiraMono Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
-family = "Fira Mono Nerd Font"
+family = "FiraMono Nerd Font Mono"
 
 [window]
 decorations = "none"
