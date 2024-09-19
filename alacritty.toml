@@ -1,22 +1,23 @@
 [font.bold]
-family = "FiraMono Nerd Font Mono"
+family = "MesloLGS NF"
 style = "Bold"
 
 [font.bold_italic]
-family = "FiraMono Nerd Font Mono"
+family = "MesloLGS NF"
 style = "Bold Italic"
 
 [font.italic]
-family = "FiraMono Nerd Font Mono"
+family = "MesloLGS NF"
 style = "Italic"
 
 [font.normal]
-family = "FiraMono Nerd Font Mono"
+family = "MesloLGS NF"
+style = "Regular"
 
 [window]
 decorations = "none"
 dynamic_padding = true
-opacity = 0.95
+opacity = 0.90
 
 [window.padding]
 x = 2
